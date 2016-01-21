@@ -1,1 +1,2 @@
-print("Tess is cool")
+x= "Tess is cool"
+print(x)
